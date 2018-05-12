@@ -1,0 +1,30 @@
+_repo: Cannibals-all-or-Slaves-without-masters_35481
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fitzhugh, George
+    birthdate: 1806
+    deathdate: 1881
+    gutenberg_agent_id: '37706'
+    url: http://www.gutenberg.org/2009/agents/37706
+description: ''
+gutenberg_issued: '2011-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35481'
+  lccn: '11008735'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- United States'
+- !lcsh 'Slave labor'
+- !lcsh 'Working class'
+- !lcc 'E300'
+- !lcsh 'Slavery -- Justification'
+title: Cannibals all! or, Slaves without masters
+url: http://www.gutenberg.org/ebooks/35481
